@@ -2,7 +2,7 @@
 
 
 <h1 align="left"> Hi there, I'm Afnan👋</h1>
-<h3 align="left"> I'm a Computer science student who has a passion for learning new challenges.</h3>
+<h3 align="left">  A Computer science student who has a passion for learning new challenges.</h3>
 
 - 🌱 I’m currently learning how to build Apps
 
