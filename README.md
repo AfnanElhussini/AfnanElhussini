@@ -4,7 +4,7 @@
 <h1 align="center"> HI there, I'm Afnan👋</h1>
 <h3 align="center">Computer science student who has a passion for learning new challenges.</h3>
 
-- 🌱 I’m currently learning Flutter Technology
+- 🌱 I’m currently learning how to build Apps
 
 - 📫 How to reach me afnanrlhussini23@gmail.com
 
