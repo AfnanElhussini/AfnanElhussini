@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning how to build Apps
 
 - 📫 How to reach me afnanrlhussini23@gmail.com
+- ⚡️ Fun fact There is a huge similarity between me and Mikasa Akerman
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
