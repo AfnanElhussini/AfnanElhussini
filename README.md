@@ -1,7 +1,7 @@
-### Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Afnan</h1>
+
+<h1 align="center">Hi 👋,HI there, I'm Afnan</h1>
 <h3 align="center">Computer science student who has a passion for learning new challenges.</h3>
 
 - 🌱 I’m currently learning Flutter Technology
