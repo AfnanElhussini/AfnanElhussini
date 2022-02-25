@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Afnan👋</h1>
-<h3 align="center">A Computer science student who has a passion for learning new challenges.</h3>
+<h1 align="left">Hi there, I'm Afnan👋</h1>
+<h3 align="left">A Computer science student who has a passion for learning new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanelhussini&label=Profile%20views&color=0e75b6&style=flat" alt="afnanelhussini" /> </p>
 
