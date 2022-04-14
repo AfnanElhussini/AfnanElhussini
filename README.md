@@ -1,13 +1,12 @@
 <h1 align="left">Hi there, I'm Afnan👋</h1>
 <h3 align="left">A Computer science student who has a passion for learning new challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanelhussini&label=Profile%20views&color=0e75b6&style=flat" alt="afnanelhussini" /> </p>
-
 - 🌱 I’m currently learning **how to build Apps.**
 
 - 📫 How to reach me **afnanelhussini9@gmail.com**
 
 - ⚡ Fun fact **most of the days i feel like a character from murakami's books.**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanelhussini&label=Profile%20views&color=0e75b6&style=flat" alt="afnanelhussini" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
