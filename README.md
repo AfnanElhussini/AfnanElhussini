@@ -10,6 +10,7 @@
 - 📫 How to reach me **afnanelhussini9@gmail.com**
 
 - ⚡ Fun fact **I love possessing books more than reading them.**
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanelhussini&label=Profile%20views&color=0e75b6&style=flat" alt="afnanelhussini" /> </p>
 
