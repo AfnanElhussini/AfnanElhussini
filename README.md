@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Afnan👋👩‍💻</h1>
 <h3 align="center">A Software Engineer who has a passion for learning new challenges.</h3>
 
-- 🎓 Computer Science - Medical Informatics Program Graduate @https://csifac.mans.edu.eg/
+- 🎓 Computer Science - Medical Informatics Program Graduate 
 
 - 🔭 I’m currently working on **Improving my skills**
 
