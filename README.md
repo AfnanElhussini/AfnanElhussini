@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Afnan👋👩‍💻</h1>
 <h3 align="center">A Software Engineer who has a passion for learning new challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanelhussini&label=Profile%20views&color=0e75b6&style=flat" alt="afnanelhussini" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afnanelhussini" alt="afnanelhussini" /></a> </p>
 
 - 🔭 I’m currently working on **Improving my skills**
@@ -12,6 +10,8 @@
 - 📫 How to reach me **afnanelhussini9@gmail.com**
 
 - ⚡ Fun fact **I love possessing books more than reading them.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanelhussini&label=Profile%20views&color=0e75b6&style=flat" alt="afnanelhussini" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
