@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **afnanelhussini9@gmail.com**
 
-- 🍀 Ask me about anything, I will be happy to help
-
 - ⚡ Fun fact **I love possessing books more than reading them.**
 <hr/>
 
